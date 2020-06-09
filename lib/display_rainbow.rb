@@ -1,6 +1,6 @@
 def display_rainbow(colors)
-puts ""
-
+  puts "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
+end
 
 
 # Write your #display_rainbow method here
